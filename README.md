@@ -35,8 +35,3 @@ Los resultados se guardarán en la carpeta `frames/`, incluyendo una animación 
 - Comparación visual entre solución numérica y analítica
 - Gráfico de evolución del error máximo
 - Mapa de calor del error absoluto
-
-## 🛠️ Autor
-
-- **Tu Nombre**
-- [Tu perfil de GitHub](https://github.com/DanZarate)
