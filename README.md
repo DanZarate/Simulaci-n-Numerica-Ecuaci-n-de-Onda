@@ -21,7 +21,7 @@ pip install -r requirements.txt
 Simplemente corre el script de simulación:
 
 ```bash
-python simulacion.py
+python main.py
 ```
 
 Los resultados se guardarán en la carpeta `frames/`, incluyendo una animación `.gif` del proceso y gráficos del error.
@@ -35,4 +35,4 @@ Los resultados se guardarán en la carpeta `frames/`, incluyendo una animación 
 ## 🛠️ Autor
 
 - **Tu Nombre**
-- [Tu perfil de GitHub](https://github.com/TU_USUARIO)
+- [Tu perfil de GitHub](https://github.com/DanZarate)
