@@ -19,7 +19,7 @@ Instala las dependencias con:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## ▶️ Ejecución
 
 Simplemente corre el script de simulación:
