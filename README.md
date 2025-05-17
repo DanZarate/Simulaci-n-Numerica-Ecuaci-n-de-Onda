@@ -2,6 +2,10 @@
 
 Este repositorio contiene una implementación en Python de una simulación numérica y una solución analítica de la ecuación de onda en dos dimensiones, utilizando condiciones de frontera tipo Neumann.
 
+
+![Simulación 2D](frames/animacion.gif)
+
+
 ## 📌 Descripción
 
 El script simula la evolución temporal de una onda en un canal bidimensional, comparando la solución numérica con la solución analítica. Se utilizan:
@@ -21,7 +25,7 @@ pip install -r requirements.txt
 Simplemente corre el script de simulación:
 
 ```bash
-python main.py
+python wave2D.py
 ```
 
 Los resultados se guardarán en la carpeta `frames/`, incluyendo una animación `.gif` del proceso y gráficos del error.
